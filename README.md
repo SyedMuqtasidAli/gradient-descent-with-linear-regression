@@ -20,7 +20,7 @@ Gradient descent is an optimization algorithm used for minimizing the cost funct
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/gradient-descent-from-scratch.git
+    git clone https://github.com/syed-muqtasid-ali/gradient-descent-from-scratch.git
     ```
 
 2. **Navigate to the project directory**:
