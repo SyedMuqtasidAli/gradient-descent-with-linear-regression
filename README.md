@@ -39,7 +39,7 @@ Gradient descent is an optimization algorithm used for minimizing the cost funct
 
 2. **Open the Jupyter Notebook**:
     ```sh
-    jupyter notebook Gradient Descent From Scratch.ipynb"
+    jupyter notebook Gradient Descent From Scratch.ipynb
     ```
 
 3. **Follow the instructions within the notebook to understand and implement gradient descent from scratch**.
